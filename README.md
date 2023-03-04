@@ -1,6 +1,6 @@
 # Pygame-Project  
 This repository includes the term project of IE201 Intermediate Programming lecture.  
-#Description of the Game  
+  # Description of the Game  
 In the game, there are two enemy planets. These planets can create different types of
 spaceships, with certain advantages and disadvantages. These spaceships come across on a
 battlefield of three straight lanes. Spaceships created in a lane fight against spaceships
