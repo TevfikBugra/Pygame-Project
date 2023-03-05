@@ -1,6 +1,6 @@
 # Pygame-Project  
-This repository includes the term project of IE201 Intermediate Programming lecture.  
-  # Description of the Game  
+This repository includes the term project of IE201 Intermediate Programming lecture. In this project, four main principles of object-oriented programming are used. These principles are ___abstraction, encapsulation, inheritance,___ and ___polymorphism.___
+  # Description of the Game Project  
 In the game, there are two enemy planets. These planets can create different types of
 spaceships, with certain advantages and disadvantages. These spaceships come across on a
 battlefield of three straight lanes. Spaceships created in a lane fight against spaceships
